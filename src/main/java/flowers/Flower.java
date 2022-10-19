@@ -1,14 +1,14 @@
-package Flowers;
+package flowers;
 import lombok.Setter;
 import lombok.Getter;
 
 public class Flower {
-    @Setter
-    int sepalLength;
     @Setter @Getter
-    String Color;
-    @Setter
-    int price;
+    private int sepalLength;
+    @Setter @Getter
+    private String Color;
+    @Setter @Getter
+    private int price;
 
     public int getPrice() {
         return this.price;

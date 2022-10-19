@@ -1,7 +1,5 @@
-package Flowers;
+package flowers;
 import lombok.Getter;
-import lombok.Setter;
-
 
 public enum FlowerColor {
     RED("#FF0000"), BLUE("#0000FF");
@@ -11,8 +9,6 @@ public enum FlowerColor {
 
 
     FlowerColor(String color) {
-        this.color = (String)color;
-
-
+        this.color = color;
     }
 }

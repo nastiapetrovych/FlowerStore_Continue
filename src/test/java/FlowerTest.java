@@ -1,5 +1,5 @@
-import Flowers.Flower;
-import Flowers.FlowerColor;
+import flowers.Flower;
+import flowers.FlowerColor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
