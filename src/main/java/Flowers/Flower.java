@@ -1,7 +1,21 @@
 package Flowers;
+import lombok.Setter;
+import lombok.Getter;
 
-public abstract class Flower {
-    Flower(int sepalLength, String color, double price){
+public class Flower {
+    @Setter
+    int sepalLength;
+    @Setter @Getter
+    String Color;
+    @Setter
+    int price;
+
+    public int getPrice() {
+        return this.price;
     }
 
+    public void setColor(FlowerColor color) {
+        this.Color = color.getColor();
+    }
 }
+
