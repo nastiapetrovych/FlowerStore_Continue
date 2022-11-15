@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-11-15T01:06:02.920+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/api/v1/flowers"
+}

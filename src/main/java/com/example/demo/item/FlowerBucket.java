@@ -1,10 +1,11 @@
 package com.example.demo.item;
 import com.example.demo.flower.Flower;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class FlowerBucket extends Item{
-    List<Flower> flowers;
+    static List<Flower> flowers = new ArrayList();
     @Override
     double price() {
         int total = 0;
@@ -22,7 +23,7 @@ public class FlowerBucket extends Item{
             System.out.println("Oops, this flower is out...");
         }
     }
-    public void addFlowers(Flower flower){
+    public static void addFlowers(Flower flower){
         flowers.add(flower);
         System.out.println("New flower was added to bucket");
     }

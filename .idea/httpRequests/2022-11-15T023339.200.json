@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "flowerNumber": 15,
+    "price": 10,
+    "color": "pink"
+  },
+  {
+    "id": 2,
+    "flowerNumber": 10,
+    "price": 15,
+    "color": "red"
+  }
+]

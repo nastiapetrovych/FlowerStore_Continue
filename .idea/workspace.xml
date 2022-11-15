@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1acb151-2357-4192-9133-84b45f88b18e" name="Changes" comment="Second">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/FlowerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/FlowerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/ItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/FlowerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/flower/FlowerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/item/FlowerBucket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/item/FlowerBucket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/item/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/item/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/item/PaperDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/item/PaperDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/item/RibbonDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/item/RibbonDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HSEwPuQr2JOssy4AZ9NtWiOXHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Nastia/Desktop/Demo",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "f0258b6685684c113bad94d91b8fa02a"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nastia\Desktop\FlowerStore" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ItemTest">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="FlowerStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/test.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/test.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.ItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.testItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.ItemTest" />
+      <option name="METHOD_NAME" value="testItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="FlowerStore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="HTTP Request.generated-requests | #2" />
+      <item itemvalue="HTTP Request.test | #1" />
+      <item itemvalue="HTTP Request.test | #2" />
+      <item itemvalue="JUnit.ItemTest" />
+      <item itemvalue="JUnit.ItemTest.testItem" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ItemTest" />
+        <item itemvalue="JUnit.ItemTest.testItem" />
+        <item itemvalue="HTTP Request.test | #1" />
+        <item itemvalue="HTTP Request.test | #2" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1acb151-2357-4192-9133-84b45f88b18e" name="Changes" comment="" />
+      <created>1668270327826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668270327826</updated>
+      <workItem from="1668270330719" duration="1029000" />
+      <workItem from="1668435552188" duration="145000" />
+      <workItem from="1668435720837" duration="267000" />
+      <workItem from="1668436630067" duration="2811000" />
+      <workItem from="1668448305212" duration="21840000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finally">
+      <created>1668270380809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668270380809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second">
+      <created>1668270536698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668270536698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second">
+      <created>1668270649497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668270649497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Second">
+      <created>1668271127346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668271127346</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second">
+      <created>1668271214461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668271214465</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finally" />
+    <MESSAGE value="Second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Demo$DemoApplication__1_.ic" NAME="DemoApplication (1) Coverage Results" MODIFIED="1668438386283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

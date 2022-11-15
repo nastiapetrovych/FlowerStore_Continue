@@ -1,21 +1,27 @@
 package com.example.demo.flower;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-
-@RequestMapping("/api/flowers")
 @RestController
+@RequestMapping("api/v1/flowers")
 public class FlowerController {
+    private final FlowerService flowerService;
+
+    @Autowired
+    public FlowerController(FlowerService flowerService) {
+        this.flowerService = flowerService;
+    }
+
     @GetMapping
-    public  List<Object> getFlowers() {
-        Flower flower = new Flower();
-        flower.setPrice(200);
-        flower.setPrice(40);
-        flower.setFlowerNumber(10);
-        return List.of(flower);
+    public  List<Flower> getFlowers() {
+        return flowerService.getFlowers();
+    }
+
+    @PostMapping
+    public void addFlower(@RequestBody Flower flower){
+        flowerService.addFlower(flower);
     }
 }
